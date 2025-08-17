@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lilly</h1>
 <h3 align="center">Recent IT Graduate - Interested in Data Analysis and Software Development</h3>
 
-- 🌱 I’m currently learning **Data analysis, PowerBI.**
+- 🌱 I’m currently learning **Data analysis, PowerBI** and creating an end-to-end Sale analysis project. 
 
 - 📫 Email: **caoshaungli@gmail.com**
 
