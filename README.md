@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lilly</h1>
-<h3 align="center">Recent IT Graduate - Interested in Data Analysis and Software Development</h3>
+<h1 align="center">Hi 👋, I'm Cao Shaung Li (Lilly)</h1>
+<h3 align="center">Recent IT Graduate - Interested in Data Analysis and AI Development</h3>
 
-- 🌱 I’m currently learning **Data analysis, PowerBI** and creating an end-to-end Sale analysis project. 
-
+# About me
+- 🌎 I'm from Myanmar 🇲🇲 . I finished my Bachelor of IT at JCU Singapore 🇸🇬 and I'm now working in Thailand as a System Support  🇹🇭 . 
+- 🌱 I’m currently self-learning about developing Gen-AI app on Microsoft Foundry.
 - 📫 Email: **caoshaungli@gmail.com**
 
 # ♾️ Connect with me
