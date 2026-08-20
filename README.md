@@ -3,7 +3,7 @@
 
 # About me
 - 🌎 I'm from Myanmar. I finished my Bachelor of IT in Singapore🦁 and I'm now working as a System Support in Thailand🐘. 
-- 🌱 I’m currently self-learning about developing Gen-AI app on Microsoft Foundry.
+- 🌱 I’m currently self-learning about developing Gen-AI app in Microsoft Foundry.
 - 📫 Email: **caoshaungli@gmail.com**
 
 # ♾️ Connect with me
