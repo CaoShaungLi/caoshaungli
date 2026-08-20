@@ -2,7 +2,7 @@
 <h3 align="center">Recent IT Graduate - Interested in Data Analysis and AI Development</h3>
 
 # About me
-- 🌎 I'm from Myanmar 🇲🇲 . I finished my Bachelor of IT at JCU Singapore 🇸🇬 and I'm now working in Thailand as a System Support  🇹🇭 . 
+- 🌎 I'm from Myanmar. I finished my Bachelor of IT in Singapore🦁 and I'm now working as a System Support in Thailand🐘. 
 - 🌱 I’m currently self-learning about developing Gen-AI app on Microsoft Foundry.
 - 📫 Email: **caoshaungli@gmail.com**
 
